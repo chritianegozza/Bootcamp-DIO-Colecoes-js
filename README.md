@@ -2,7 +2,13 @@
 *******************************************************************************************************************
 ![image](https://user-images.githubusercontent.com/72118415/160239477-9ddc15f6-7a6d-4d17-878c-cc1faf1bc6d2.png)
 
+//treinamento de js - DIO Coleções - Gets - MAP
+
 ![image](https://user-images.githubusercontent.com/72118415/160239500-7a922d81-0556-4fe4-a493-8f6f2bfcbc6e.png)
+
+Debugging e Error Handling
+
+![image](https://user-images.githubusercontent.com/72118415/160263685-4f5f3368-d9dd-4f01-80e6-724a08df4f13.png)
 
 
 *****************************************************************************************************************
