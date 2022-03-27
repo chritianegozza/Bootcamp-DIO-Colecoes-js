@@ -1,0 +1,21 @@
+//treinamento de js - DIO Coleções - Gets - MAP
+
+
+function getAdmins(map) {
+    let admins = [];
+    for([key, value] of map) {
+        if (value === 'Admin') {
+            admins.push(key);
+        }
+    }
+    return admins;
+}
+
+const usuarios = new Map();
+
+usuarios.set('Arthur', 'Admin');
+usuarios.set('Alex', 'Admin');
+usuarios.set('Christiane', 'User');
+usuarios.set('Marcela', 'Admin');
+
+console.log(getAdmins(usuarios));
