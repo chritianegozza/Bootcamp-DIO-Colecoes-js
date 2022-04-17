@@ -10,6 +10,8 @@ Debugging e Error Handling
 
 ![image](https://user-images.githubusercontent.com/72118415/160263685-4f5f3368-d9dd-4f01-80e6-724a08df4f13.png)
 
+mapSemThis
+![image](https://user-images.githubusercontent.com/72118415/163699492-b00493fa-ad77-4cd0-a5a7-2ecbbb8453fb.png)
 
 *****************************************************************************************************************
 Linguagem 
